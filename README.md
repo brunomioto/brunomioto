@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello! 👋
+
+
+I'm a biologist currently doing my PhD with Ecology/Evolution/Genetics!
+I create a lot of Data Visualizations and R packages.
+
+### R Packages
+
+- reservatoriosBR
+- ggimprensa
+- nupelia
+- nupgen
+- NUPcollection
+
 
 <!--
 **brunomioto/brunomioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
