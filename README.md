@@ -5,22 +5,25 @@
 
 <div align="center">
 
-<a href="https://twitter.com/BrunoHMioto"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/brunomioto"><img border="0" alt="Behance" src="https://assets.dryicons.com/uploads/icon/svg/8264/04073ce3-5b98-4f32-88d3-82b2ef828066.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/brunomioto/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
 <div align="left">
-I'm a biologist currently doing my PhD with Ecology/Evolution/Genetics!
+I’m a Biologist, Data Analyst and DataViz Specialist!
+
+You can read more about my works (portfolio, tutorials, scripts) on my website made using R: [www.brunomioto.com](https://www.brunomioto.com)
 
 I create a lot of Data Visualizations and R packages.
 
 ### R Packages
 
-- reservatoriosBR
-- ggimprensa
+- [reservatoriosBR](https://brunomioto.github.io/reservatoriosBR/)
+- [ggimprensa](https://brunomioto.github.io/ggimprensa/)
+- [futebolplotR](https://brunomioto.github.io/futebolplotR/)
+- feowR
+- [WorldClimData](https://brunomioto.github.io/WorldClimData/)
+- [DNAplot](https://brunomioto.github.io/DNAplot/)
 - nupelia
 - nupgen
-- NUPcollection
 
 <div align="right">
 readme template by Cédric Scherer
